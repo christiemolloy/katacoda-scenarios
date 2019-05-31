@@ -31,7 +31,7 @@
         "uisettings": "javascript"
   },
   "backend": {
-    "imageid": "node"
+    "imageid": "node",
     "port": 80
   }
 }
