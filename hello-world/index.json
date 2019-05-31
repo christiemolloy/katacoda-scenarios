@@ -18,11 +18,10 @@
     }
   },
   "environment": {
-    "uilayout": "editor",
+    "uilayout": "editor-terminal",
     "uisettings": "makefile",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker-golang"
+    "imageid": "git"
   }
 }
