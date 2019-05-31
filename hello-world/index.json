@@ -19,7 +19,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uisettings": "makefile",
+    "uisettings": "makefile"
   },
   "backend": {
     "imageid": "git"
