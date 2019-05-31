@@ -18,8 +18,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
-    "uisettings": "makefile"
+    "uilayout": "iframe",
   },
   "backend": {
     "imageid": "git"
