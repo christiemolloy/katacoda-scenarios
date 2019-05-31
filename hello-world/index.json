@@ -21,8 +21,8 @@
     "app.js", "index.js"
   ],
   "environment": {
-        "hideintro": true,
-        "hidefinish": true,
+        "hideintro": false,
+        "hidefinish": false,
         "uilayout": "editor",
         "uisettings": "javascript"
   },
