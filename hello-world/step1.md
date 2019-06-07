@@ -1,7 +1,10 @@
-This is your first step.
+Step One: The Bullseye Layout
+
+The Bullseye Layout is designed to both horizontally and vertically center a single child element within its parent.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+Center the Modal Component inside of the Page.
 
-`echo 'Hello World'`{{execute}}
+a. add  ‘pf-l-bullseye` to the parent div. 
+b. You will see that the modal is now centered in that div on the x and y axes. 
