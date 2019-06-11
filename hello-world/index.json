@@ -4,14 +4,14 @@
   "difficulty": "beginner",
   "time": "20 minutes",
   "details": {
-    "steps": [{
-      "title": "Layout 1: Bullseye Layout",
-      "text": "step1.md"
-    }],
     "intro": {
       "text": "intro.md",
       "credits": ""
     },
+    "steps": [{
+      "title": "Layout 1: Bullseye Layout",
+      "text": "step1.md"
+    }],
     "finish": {
       "text": "finish.md"
     }
