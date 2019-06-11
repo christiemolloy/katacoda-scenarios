@@ -43,7 +43,7 @@
     }
   },
   "files": [
-    "app.js", "index.js"
+    "step1.html"
   ],
   "environment": {
         "hideintro": false,
