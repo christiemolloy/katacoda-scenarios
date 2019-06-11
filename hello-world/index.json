@@ -12,7 +12,7 @@
       {
         "title": "Layout 1: Bullseye Layout",
         "text": "step1.md",
-        "code": "step1code.html",
+        "code": "step1code.sh",
       },
       {
         "title": "Layout 2: Flex Layout",
