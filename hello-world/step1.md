@@ -1,6 +1,6 @@
 The Bullseye Layout is designed to both horizontally and vertically center a single child element within its parent.
 
-## Task
+## Task: Center the modal component inside of the page
 
 Center the Modal Component inside of the Page.
 
