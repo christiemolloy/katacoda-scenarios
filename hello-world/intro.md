@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+Module 1: Patternfly Layouts
