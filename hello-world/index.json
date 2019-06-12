@@ -45,7 +45,7 @@
     }
   },
   "files": [
-    "app.js"
+    "app.js", "step1.html"
   ],
   "environment": {
         "hideintro": false,
