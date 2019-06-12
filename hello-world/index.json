@@ -45,7 +45,7 @@
     }
   },
   "files": [
-    "index.html"
+    "app.js"
   ],
   "environment": {
         "hideintro": false,
