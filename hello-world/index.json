@@ -52,7 +52,7 @@
         "showdashboard": true,
         "hidefinish": false,
         "uilayout": "editor-terminal",
-        "uisettings": "javascript"
+        "uisettings": "html"
   },
   "backend": {
     "imageid": "node",
